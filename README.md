@@ -1,4 +1,4 @@
-My submission for the following assignment:
+My submission for the following assignment: 
 "In this lab, we have 3 tasks.
 
 We will do them inside a single Unity project.
